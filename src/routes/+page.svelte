@@ -6,6 +6,6 @@
 <!-- Made with Svelte Center Footer-->
 <body>
   <footer>
-    <p>Made with Svelte</p>
+    <p>Made with SvelteKit</p>
   </footer>
 </body>
